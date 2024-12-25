@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\wwwroot\\js\\sanpham.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:wwwroot\\js\\sanpham.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\wwwroot\\css\\sanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:wwwroot\\css\\sanpham.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\views\\home\\indexadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:views\\home\\indexadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:views\\home\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:views\\home\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\upgradelog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:upgradelog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\views\\home\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:views\\home\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\wwwroot\\css\\dangky.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:wwwroot\\css\\dangky.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\views\\home\\thongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:views\\home\\thongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|c:\\users\\hung\\downloads\\testt (4)\\testt\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C57A8EF5-E5B6-48FA-9739-B67D6BDDB140}|testt.csproj|solutionrelative:wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hung\\Downloads\\testt\\Models\\Tro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 116,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sanpham.js",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\js\\sanpham.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\sanpham.js",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\js\\sanpham.js",
+              "RelativeToolTip": "wwwroot\\js\\sanpham.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-11T03:52:28.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sanpham.css",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\css\\sanpham.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\sanpham.css",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\css\\sanpham.css",
+              "RelativeToolTip": "wwwroot\\css\\sanpham.css",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-11T03:39:58.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sanpham.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\sanpham.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\sanpham.cshtml",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\sanpham.cshtml",
+              "RelativeToolTip": "Views\\Home\\sanpham.cshtml",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAG8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T03:39:24.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-11T03:38:44.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T13:27:13.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpgradeLog.htm",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\UpgradeLog.htm",
+              "RelativeDocumentMoniker": "UpgradeLog.htm",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\UpgradeLog.htm",
+              "RelativeToolTip": "UpgradeLog.htm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-05T13:26:51.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tro.cs",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt\\Models\\Tro.cs",
+              "RelativeDocumentMoniker": "..\\..\\testt\\Models\\Tro.cs",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt\\Models\\Tro.cs",
+              "RelativeToolTip": "..\\..\\testt\\Models\\Tro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T13:23:27.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T13:23:25.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\cart.cshtml",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\cart.cshtml",
+              "RelativeToolTip": "Views\\Home\\cart.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T10:37:26.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\IndexAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\IndexAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\IndexAdmin.cshtml",
+              "RelativeToolTip": "Views\\Home\\IndexAdmin.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T09:57:59.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dangky.css",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\css\\dangky.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\dangky.css",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\css\\dangky.css",
+              "RelativeToolTip": "wwwroot\\css\\dangky.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-05T09:42:19.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "layout.css",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\css\\layout.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\layout.css",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\css\\layout.css",
+              "RelativeToolTip": "wwwroot\\css\\layout.css",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-05T09:42:11.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAWwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-02-27T08:33:51.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dangky.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\dangky.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\dangky.cshtml",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\dangky.cshtml",
+              "RelativeToolTip": "Views\\Home\\dangky.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwEIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:21:24.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Chitiet.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\Chitiet.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Chitiet.cshtml",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\Chitiet.cshtml",
+              "RelativeToolTip": "Views\\Home\\Chitiet.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:21:24.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAALUAAAAAAAAAAAAAAHoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-27T07:21:24.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:21:24.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "thongtin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\thongtin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\thongtin.cshtml",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\thongtin.cshtml",
+              "RelativeToolTip": "Views\\Home\\thongtin.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:21:24.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAEQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T07:21:24.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Models\\Database.cs",
+              "RelativeDocumentMoniker": "Models\\Database.cs",
+              "ToolTip": "C:\\Users\\Hung\\Downloads\\testt (4)\\testt\\Models\\Database.cs",
+              "RelativeToolTip": "Models\\Database.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAAAIsBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T07:21:24.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

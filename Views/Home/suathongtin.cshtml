@@ -1,0 +1,113 @@
+﻿@model User
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sửa thông tin</title>
+    <link rel="stylesheet" href="~/css/suathongtin.css" asp-append-version="true">
+
+</head>
+
+<body>
+    <div class="PageEdit" id="EditUser">
+        <div class="PageEdit_content">
+            <span class="close-button" onclick="dongCuaSo()">&times;</span>
+            @using (Html.BeginForm("suathongtin", "Home", FormMethod.Post))
+            {
+                <h1>Sửa thông tin Khách Hàng</h1>
+
+                <div class="form-group">
+                    <label for="ho-ten" class="form-label">Họ và Tên:</label>
+                    @Html.TextBoxFor(model => model.Name, new { @class = "form-input" })
+                </div>
+                <div class="form-group">
+                    <label for="ho-ten" class="form-label">Tài khoản:</label>
+                    @Html.TextBoxFor(model => model.UserName, new { @class = "form-input" })
+                </div>
+                <div class="form-group">
+                    <label for="ho-ten" class="form-label">Mật khẩu:</label>
+                    @Html.TextBoxFor(model => model.PassWord, new { @class = "form-input" })
+                </div>
+                <div class="form-group">
+                    <label for="email" class="form-label">Email:</label>
+                    @Html.TextBoxFor(model => model.Email, new { @class = "form-input" })
+                </div>
+                <div class="form-group">
+                    <label for="dien-thoai" class="form-label">Điện Thoại:</label>
+                    @Html.TextBoxFor(model => model.Phone, new { @class = "form-input" })
+                </div>
+                <div class="form-group">
+                    <label for="dia-chi" class="form-label">Địa Chỉ:</label>
+                    @Html.TextBoxFor(model => model.Address, new { @class = "form-input" })
+                </div>
+
+                <div class="form-group">
+                    <label for="gioi-tinh" class="form-label">Giới Tính:</label>
+                    @Html.DropDownListFor(model => model.Sex,
+                    new List<SelectListItem>
+                    {
+                        new SelectListItem { Value = "Nam", Text = "Nam" },
+                        new SelectListItem { Value = "Nữ", Text = "Nữ" }
+                    },
+                    new { @class = "form-input", id = "Sex" })
+                </div>
+
+                <button type="submit" class="submit-button">Lưu</button>
+
+            }
+
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $("#datepicker").datepicker();
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            document.getElementById('addImage').addEventListener('click', function () {
+                // Tạo một trường nhập file mới
+                var newInput = document.createElement('input');
+                newInput.type = 'file';
+                newInput.name = 'images';
+                newInput.accept = 'image/*';
+                newInput.multiple = true;
+
+                // Thêm trường mới vào container
+                document.getElementById('imageContainer').appendChild(newInput);
+            });
+            function closePostForm() {
+                // Điều chỉnh tên phương thức bạn sử dụng để đóng cửa sổ.
+                var postForm = document.getElementById('postFormContainer');
+                postForm.style.display = 'none';
+            }
+
+
+            document.getElementById('postForm').addEventListener('submit', function (event) {
+                event.preventDefault();
+
+                // Lấy giá trị từ các trường nhập
+                var title = document.getElementById('title').value;
+                var description = document.getElementById('description').value;
+                var contact = document.getElementById('contact').value;
+                var price = document.getElementById('price').value;
+                var area = document.getElementById('area').value;
+                var images = document.querySelectorAll('input[name="images"]'); // Lấy danh sách tất cả các trường nhập file ảnh
+
+                // Kiểm tra xem có thể thêm logic kiểm tra dữ liệu ở đây
+
+                // Hiển thị thông báo (ví dụ: alert)
+                alert('Đã đăng tin thành công!\nTiêu đề: ' + title + '\nMô tả: ' + description +
+                    '\nLiên hệ: ' + contact + '\nGiá tiền: ' + price + '\nDiện tích: ' + area +
+                    '\nSố ảnh đã chọn: ' + images.length);
+
+                // Tùy thuộc vào nhu cầu, bạn có thể thêm logic để gửi dữ liệu đến máy chủ và lưu trữ trong cơ sở dữ liệu,
+                // bao gồm cả việc tải ảnh lên máy chủ.
+                // Ví dụ: Sử dụng XMLHttpRequest hoặc Fetch API để gửi dữ liệu đến máy chủ.
+            });
+        });
+    </script>
+</body>
+</html>

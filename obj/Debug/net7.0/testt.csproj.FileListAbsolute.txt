@@ -1,0 +1,561 @@
+C:\vscode\testt\bin\Debug\net7.0\appsettings.Development.json
+C:\vscode\testt\bin\Debug\net7.0\appsettings.json
+C:\vscode\testt\bin\Debug\net7.0\testt.staticwebassets.runtime.json
+C:\vscode\testt\bin\Debug\net7.0\testt.exe
+C:\vscode\testt\bin\Debug\net7.0\testt.deps.json
+C:\vscode\testt\bin\Debug\net7.0\testt.runtimeconfig.json
+C:\vscode\testt\bin\Debug\net7.0\testt.dll
+C:\vscode\testt\bin\Debug\net7.0\testt.pdb
+C:\vscode\testt\obj\Debug\net7.0\testt.csproj.AssemblyReference.cache
+C:\vscode\testt\obj\Debug\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\testt\obj\Debug\net7.0\testt.AssemblyInfoInputs.cache
+C:\vscode\testt\obj\Debug\net7.0\testt.AssemblyInfo.cs
+C:\vscode\testt\obj\Debug\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\vscode\testt\obj\Debug\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\vscode\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cache
+C:\vscode\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cs
+C:\vscode\testt\obj\Debug\net7.0\staticwebassets\msbuild.testt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\vscode\testt\obj\Debug\net7.0\staticwebassets\msbuild.build.testt.props
+C:\vscode\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testt.props
+C:\vscode\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testt.props
+C:\vscode\testt\obj\Debug\net7.0\staticwebassets.pack.json
+C:\vscode\testt\obj\Debug\net7.0\staticwebassets.build.json
+C:\vscode\testt\obj\Debug\net7.0\staticwebassets.development.json
+C:\vscode\testt\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\vscode\testt\obj\Debug\net7.0\scopedcss\bundle\testt.styles.css
+C:\vscode\testt\obj\Debug\net7.0\scopedcss\projectbundle\testt.bundle.scp.css
+C:\vscode\testt\obj\Debug\net7.0\testt.dll
+C:\vscode\testt\obj\Debug\net7.0\refint\testt.dll
+C:\vscode\testt\obj\Debug\net7.0\testt.pdb
+C:\vscode\testt\obj\Debug\net7.0\testt.genruntimeconfig.cache
+C:\vscode\testt\obj\Debug\net7.0\ref\testt.dll
+C:\Users\DELL\Pictures\testt\testt\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Pictures\testt\testt\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Pictures\testt\testt\bin\Debug\net7.0\testt.staticwebassets.runtime.json
+C:\Users\DELL\Pictures\testt\testt\bin\Debug\net7.0\testt.exe
+C:\Users\DELL\Pictures\testt\testt\bin\Debug\net7.0\testt.deps.json
+C:\Users\DELL\Pictures\testt\testt\bin\Debug\net7.0\testt.runtimeconfig.json
+C:\Users\DELL\Pictures\testt\testt\bin\Debug\net7.0\testt.dll
+C:\Users\DELL\Pictures\testt\testt\bin\Debug\net7.0\testt.pdb
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.csproj.AssemblyReference.cache
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.AssemblyInfoInputs.cache
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.AssemblyInfo.cs
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cache
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cs
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.testt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.build.testt.props
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testt.props
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testt.props
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\scopedcss\bundle\testt.styles.css
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\scopedcss\projectbundle\testt.bundle.scp.css
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.dll
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\refint\testt.dll
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.pdb
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\testt.genruntimeconfig.cache
+C:\Users\DELL\Pictures\testt\testt\obj\Debug\net7.0\ref\testt.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\appsettings.Development.json
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\appsettings.json
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\testt.staticwebassets.runtime.json
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\testt.exe
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\testt.deps.json
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\testt.runtimeconfig.json
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\testt.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\testt.pdb
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\EntityFramework.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\System.Data.SQLite.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\System.CodeDom.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dacs\testt\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.csproj.AssemblyReference.cache
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.AssemblyInfoInputs.cache
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.AssemblyInfo.cs
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cache
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cs
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.testt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.build.testt.props
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testt.props
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testt.props
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\staticwebassets.pack.json
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\staticwebassets.build.json
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\staticwebassets.development.json
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\scopedcss\bundle\testt.styles.css
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\scopedcss\projectbundle\testt.bundle.scp.css
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.csproj.CopyComplete
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.dll
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\refint\testt.dll
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.pdb
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\testt.genruntimeconfig.cache
+C:\dacs\testt\testt\testt\obj\Debug\net7.0\ref\testt.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\testt.staticwebassets.runtime.json
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\testt.exe
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\testt.deps.json
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\testt.runtimeconfig.json
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\testt.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\testt.pdb
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\System.Data.SQLite.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Pictures\testt2\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.csproj.AssemblyReference.cache
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.AssemblyInfoInputs.cache
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.AssemblyInfo.cs
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cache
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cs
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\staticwebassets\msbuild.testt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\staticwebassets\msbuild.build.testt.props
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testt.props
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testt.props
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\scopedcss\bundle\testt.styles.css
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\scopedcss\projectbundle\testt.bundle.scp.css
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.csproj.CopyComplete
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.dll
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\refint\testt.dll
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.pdb
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\testt.genruntimeconfig.cache
+C:\Users\DELL\Pictures\testt2\testt\obj\Debug\net7.0\ref\testt.dll
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.csproj.AssemblyReference.cache
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.AssemblyInfoInputs.cache
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.AssemblyInfo.cs
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cache
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cs
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\appsettings.json
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\testt.staticwebassets.runtime.json
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\testt.exe
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\testt.deps.json
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\testt.runtimeconfig.json
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\testt.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\testt.pdb
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\System.Data.SQLite.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hung\Downloads\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\staticwebassets\msbuild.testt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\staticwebassets\msbuild.build.testt.props
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testt.props
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testt.props
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\scopedcss\bundle\testt.styles.css
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\scopedcss\projectbundle\testt.bundle.scp.css
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.csproj.Up2Date
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.dll
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\refint\testt.dll
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.pdb
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\testt.genruntimeconfig.cache
+C:\Users\Hung\Downloads\testt\obj\Debug\net7.0\ref\testt.dll
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.AssemblyInfo.cs
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cache
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cs
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.dll
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\refint\testt.dll
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.pdb
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\testt.staticwebassets.runtime.json
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\testt.exe
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\testt.deps.json
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\testt.runtimeconfig.json
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\testt.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\testt.pdb
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Data.SQLite.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\staticwebassets\msbuild.testt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\staticwebassets\msbuild.build.testt.props
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testt.props
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testt.props
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\scopedcss\bundle\testt.styles.css
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\scopedcss\projectbundle\testt.bundle.scp.css
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.csproj.CopyComplete
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\testt.genruntimeconfig.cache
+C:\Users\DELL\Downloads\testt1\testt\obj\Debug\net7.0\ref\testt.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\testt1\testt\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\appsettings.json
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\testt.staticwebassets.runtime.json
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\testt.exe
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\testt.deps.json
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\testt.runtimeconfig.json
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\testt.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\testt.pdb
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Web.Mvc.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Web.WebPages.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Data.SQLite.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hung\Downloads\testt (2)\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.csproj.AssemblyReference.cache
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.AssemblyInfoInputs.cache
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.AssemblyInfo.cs
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cache
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cs
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\staticwebassets\msbuild.testt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\staticwebassets\msbuild.build.testt.props
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testt.props
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testt.props
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\scopedcss\bundle\testt.styles.css
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\scopedcss\projectbundle\testt.bundle.scp.css
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.csproj.Up2Date
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.dll
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\refint\testt.dll
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.pdb
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\testt.genruntimeconfig.cache
+C:\Users\Hung\Downloads\testt (2)\testt\obj\Debug\net7.0\ref\testt.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\testt.staticwebassets.runtime.json
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\testt.exe
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\testt.deps.json
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\testt.runtimeconfig.json
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\testt.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\testt.pdb
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Data.SQLite.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.AssemblyInfo.cs
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cache
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cs
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.testt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.build.testt.props
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testt.props
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testt.props
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\scopedcss\bundle\testt.styles.css
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\scopedcss\projectbundle\testt.bundle.scp.css
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.csproj.CopyComplete
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.dll
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\refint\testt.dll
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.pdb
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\testt.genruntimeconfig.cache
+C:\Users\DELL\Downloads\testt\testt\obj\Debug\net7.0\ref\testt.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\appsettings.json
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\testt.staticwebassets.runtime.json
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\testt.exe
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\testt.deps.json
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\testt.runtimeconfig.json
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\testt.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\testt.pdb
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Data.SQLite.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Downloads\testt\testt\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.AssemblyInfo.cs
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cache
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cs
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.testt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.build.testt.props
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testt.props
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testt.props
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\scopedcss\bundle\testt.styles.css
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\scopedcss\projectbundle\testt.bundle.scp.css
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.csproj.CopyComplete
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.dll
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\refint\testt.dll
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.pdb
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\testt.genruntimeconfig.cache
+C:\Users\DELL\Downloads\testt\testt\testt\obj\Debug\net7.0\ref\testt.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\appsettings.json
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\testt.staticwebassets.runtime.json
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\testt.exe
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\testt.deps.json
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\testt.runtimeconfig.json
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\testt.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\testt.pdb
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Web.Mvc.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Web.Razor.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Web.Helpers.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Web.WebPages.Deployment.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Web.WebPages.Razor.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Web.WebPages.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Data.SQLite.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Data.SQLite.EF6.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hung\Downloads\testt (4)\testt\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.csproj.AssemblyReference.cache
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.AssemblyInfoInputs.cache
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.AssemblyInfo.cs
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cache
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.RazorAssemblyInfo.cs
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\staticwebassets\msbuild.testt.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\staticwebassets\msbuild.build.testt.props
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.testt.props
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.testt.props
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\scopedcss\bundle\testt.styles.css
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\scopedcss\projectbundle\testt.bundle.scp.css
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.csproj.Up2Date
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.dll
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\refint\testt.dll
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.pdb
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\testt.genruntimeconfig.cache
+C:\Users\Hung\Downloads\testt (4)\testt\obj\Debug\net7.0\ref\testt.dll

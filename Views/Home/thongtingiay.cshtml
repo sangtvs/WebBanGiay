@@ -1,0 +1,123 @@
+﻿@{
+    Database db = new Database();
+    List<Products> giay = db.GetGiay();
+}
+@model Products
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/thongtin.css" asp-append-version="true">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <div class="Button">
+            <div class="btn">
+                <input type="button" name="" id="btn_edit" value="Edit">
+            </div>
+            <div class="btn">
+                <input type="button" name="" id="btn_remove" value="Remove">
+            </div>
+        </div>
+        <main class="main">
+            <div class="main__TbInfor">
+                <table class="information">
+                    <thead class="information__header">
+                        <tr class="trHeader">
+                            <th class="select"><input type="checkbox" name="" id=""></th>
+                            <th class="id">Id</th>
+                            <th class="name">Tên giày</th>
+                            <th class="email">Giá</th>
+                            <th class="contact">Tồn kho</th>
+                            <th class="address">Hãng</th>
+                            <th class="sex">Giới tính</th>
+                            <th></th>
+                        </tr>
+                        <tr class="trsearch">
+                            <th></th>
+                            <th></th>
+                            <th><input type="text" name="" id="searchname" placeholder="Search..."></th>
+                            <th><input type="text" name="" id="searchcontact" placeholder="Search..."></th>
+                            <th><input type="text" name="" id="searchemail" placeholder="Search..."></th>
+                            <th><input type="text" name="" id="searchaddress" placeholder="Search..."></th>
+                            <th></th>
+                            <th></th>
+
+                        </tr>
+                    </thead>
+                    <tbody class="information__body">
+                        @foreach (var item in giay)
+                        {
+                            <tr class="trBody">
+                                <td></td>
+                                <td>@item.Id</td>
+                                <td>@item.ProductName</td>
+                                <td>@item.Price</td>
+                                <td>@item.QuantityInStock</td>
+                                <td>@item.Brand</td>
+                                <td>@item.ProductType</td>
+                                <td class="showedit">
+                                    <a href="@Url.Action("suathongtingiay", "Home", new { id = item.Id })" class="btn btn-primary"><i class="fa-solid fa-pen-to-square"></i></a>
+                                </td>
+                                <td class="showremove">
+                                    <a href="@Url.Action("xoagiay", "Home", new { id = item.Id })" class="btn btn-primary"><i class="fa-solid fa-trash-can"></i>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </main>
+    </div>
+
+
+    <script>
+        $(document).ready(function () {
+        @* function dongCuaSo() {
+                var container = document.querySelector(".PageAdd");
+                container.style.display = "none";
+                } *@
+                $('.close-button').click(function () {
+                    $('.PageAdd').css('display', 'none');
+                    $('.PageEdit').css('display', 'none');
+                })
+            $('#btn_add').click(function () {
+                if ($('.PageAdd').css('display') === 'none') {
+                    $('.PageAdd').css('display', 'block');
+                } else {
+                    $('.PageAdd').css('display', 'none');
+                }
+            })
+            $("#btn_edit").click(function () {
+                if ($(".showedit").css('display') === 'none') {
+                    $(".showedit").css('display', 'block');
+                    $(".showremove").css('display', 'none');
+                } else {
+                    $(".showedit").css('display', 'none');
+                }
+            });
+            $("#btn_remove").click(function () {
+                if ($(".showremove").css('display') === 'none') {
+                    $(".showremove").css('display', 'block');
+                    $(".showedit").css('display', 'none');
+                } else {
+                    $(".showremove").css('display', 'none');
+                }
+            });
+        @*$('.showedit').click(function () {
+                if ($('.PageEdit').css('display') === 'none') {
+                $('.PageEdit').css('display', 'block');
+                } else {
+                $('.PageEdit').css('display', 'none');
+                }
+                })*@
+
+
+                });
+    </script>
+</body>
+</html>

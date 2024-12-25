@@ -1,0 +1,60 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    Database db = new Database();
+    List<Products> Giay = db.GetGiay();
+}
+@model Products
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="~/css/site.css"  asp-append-version="true">
+    <link rel="stylesheet" href="~/font\fontawesome-free-6.4.2-web\fontawesome-free-6.4.2-web\css\all.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="~/js/site.js"></script>
+</head>
+<body>
+    <div class="container">
+        
+        <main class="main">
+            <div class="main__anhnen">
+            </div>
+
+         
+            <div class="main__tiltle">
+                <h3>Giày thời trang giới trẻ</h3>
+            </div>
+            <div class="main__content">
+                @foreach (var giay in Giay)
+                {
+                    <a href="@Url.Action("chitiet", "Home", new { id = giay.Id })" class="link-cart">
+                        <div class="cart item1">
+                            <div class="cart-img">
+                                <img src="@Url.Action("GetImage", "Home", new { id = giay.Id })" alt="Ảnh" />
+                            </div>
+                            <div class="cart-title">
+                                <p>@giay.ProductName</p>
+                            </div>
+                            <div class="cart-price">
+                                <span>Giá tiền: @giay.Price đ</span>
+                                <span>Số lượng: @giay.QuantityInStock </span>
+                            </div>
+                            <div class="cart-address">
+                                <p>Brand: @giay.Brand</p>
+                            </div>
+                        </div>
+                    </a>
+                }
+            </div>
+        </main>
+     
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,142 @@
+﻿@{
+    Database db = new Database();
+    List<Products> Giay = db.GetGiay();
+}
+@model Products
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Sản phẩm</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="~/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/templatemo.css">
+    <link rel="stylesheet" href="~/css/custom.css">
+    <link rel="stylesheet" href="~/font\fontawesome-free-6.4.2-web\fontawesome-free-6.4.2-web\css\all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
+    <link rel="stylesheet" href="~/css/fontawesome.min.css">
+    @*<link rel="stylesheet" href="~/css/site.css" asp-append-version="true">*@
+    <link rel="stylesheet" href="~/css/sanpham.css" asp-append-version="true">
+</head>
+
+<body>
+
+    <div class="modal fade bg-white" id="templatemo_search" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="w-100 pt-1 mb-5 text-right">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form action="" method="get" class="modal-content modal-body border-0 p-0">
+                <div class="input-group mb-2">
+                    <input type="text" class="form-control" id="inputModalSearch" name="q" placeholder="Search ...">
+                    <button type="submit" class="input-group-text bg-success text-light">
+                        <i class="fa fa-fw fa-search text-white"></i>
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="container py-5">
+        <div class="row">
+
+            <div class="col-lg-3">
+                <h1 class="h3">Phân loại sản phẩm</h1>
+                <hr>
+                <ul class="list-unstyled ">
+                    <li class="pb-3">
+                        <a class="d-flex justify-content-between h3 text-decoration-none" href="#">
+                            Giới tính
+                            
+                        </a>
+                        <ul class="list-unstyled pl-3">
+ 
+                            <li><a class="text-decoration-none" href="#">Tất cả</a></li>
+                            <li><a class="text-decoration-none" href="#">Nam</a></li>
+                            <li><a class="text-decoration-none" href="#">Nữ</a></li>
+                        </ul>
+                    </li>
+                    <li class="pb-3">
+                        <a class="d-flex justify-content-between h3 text-decoration-none" href="#">
+                            Sản phẩm
+                        </a>
+                        <ul class="list-unstyled pl-3">
+                            <li><a class="text-decoration-none" href="#">Nike</a></li>
+                            <li><a class="text-decoration-none" href="#">Adidas</a></li>
+                            <li><a class="text-decoration-none" href="#">Puma</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+
+
+            <div class="col-lg-9">
+                <div class="row">
+                    <div class="main__content1">
+                        @foreach (var giay in Giay)
+                        {
+                            <a href="@Url.Action("chitiet", "Home", new { id = giay.Id })" class="link-cart1">
+                                <div class="cart">
+                                    <div class="cart-img">
+                                        <img src="@Url.Action("GetImage", "Home", new { id = giay.Id })" alt="Ảnh" />
+                                    </div>
+                                    <div class="cart-title">
+                                        <p>@giay.ProductName</p>
+                                    </div>
+                                    <div class="cart-price">
+                                        <span>Giá tiền: @giay.Price đ</span>
+                                        <span>Số lượng: @giay.QuantityInStock </span>
+                                    </div>
+                                    <div class="cart-address">
+                                        <p>Hãng: @giay.Brand</p>
+                                    </div>
+                                    <div class="cart-type">
+                                        <p>Giới tính: @giay.ProductType</p>
+                                    </div>
+                                </div>
+                            </a>
+                        }
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="~/js/jquery-1.11.0.min.js"></script>
+    <script src="~/js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/templatemo.js"></script>
+    <script src="~/js/sanpham.js"></script>
+    <script>
+        // Lắng nghe sự kiện khi người dùng nhấp vào một lựa chọn
+        document.querySelectorAll('.list-unstyled a').forEach(item => {
+            item.addEventListener('click', function (event) {
+                event.preventDefault(); // Ngăn chặn hành động mặc định của liên kết
+                var filterValue = this.innerText.toLowerCase(); // Lấy giá trị của lựa chọn
+                filterProducts(filterValue); // Lọc sản phẩm dựa trên lựa chọn
+            });
+        });
+
+        // Hàm để lọc sản phẩm dựa trên lựa chọn
+        function filterProducts(filterValue) {
+            var products = document.querySelectorAll('.cart'); // Danh sách tất cả các sản phẩm
+            products.forEach(product => {
+                var brand = product.querySelector('.cart-address p').innerText.toLowerCase(); // Lấy giá trị của hãng sản phẩm
+                var gender = product.querySelector('.cart-type p').innerText.toLowerCase(); // Lấy giá trị của giới tính sản phẩm
+                // Kiểm tra xem sản phẩm có phù hợp với lựa chọn không
+                if ((filterValue === 'tất cả') || (brand.includes(filterValue)) || (gender.includes(filterValue))) {
+                    product.style.display = 'block'; // Hiển thị sản phẩm
+                } else {
+                    product.style.display = 'none'; // Ẩn sản phẩm không phù hợp
+                }
+            });
+        }
+    </script>
+
+
+</body>
+
+</html>

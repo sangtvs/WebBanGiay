@@ -1,0 +1,202 @@
+.img img{
+    width: 690px;
+    height: 390px;
+}
+.right img{
+    margin: 50px;
+}
+span{
+    cursor: pointer;
+}
+.slider {
+    width: 690px;
+    margin-left: 250px ;
+    /* margin-top: 100px; */
+    position: relative;
+    
+}
+  .img {
+    text-align: center;
+    position: relative;
+  }
+  .img img {
+    width: 100%;
+  }
+
+  /* CSS cho mũi tên chuyển slide */
+  .material-symbols-outlined {
+    font-family: "Material Symbols Outlined", sans-serif;
+    font-size: 36px;
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: white;
+  }
+  .prev {
+    left: 0;
+  }
+  .prev {
+    left: 0;
+  }
+  .next {
+    right: 0;
+  }
+  .diachi h1{
+    font-size: 22px;
+    
+  }
+  .diachi{
+    margin-top: 20px;
+  }
+  .b{
+    display: flex;
+    width: 20vw;
+    justify-content: space-between;
+  }
+  .b h1{
+    color: rgb(230, 202, 170);
+    font-size: 22px;
+  }
+  .b p{
+    font-size: 22px;
+
+  }
+  .noidung{
+    margin-left: 250px;
+    width: 690px;
+  }
+  .mota h1{
+    font-size: 22px;
+  }
+  .bando h1{
+    font-size: 22px;
+  }
+  .lienhe h1{
+    font-size: 22px;
+
+  }
+  a{
+    text-decoration: none;
+  }
+  .top{
+    display: flex;
+  }
+.right {
+    float: left;
+    width: 180px; 
+    height: 30%;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.soluong, .size, .mua {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="number"], select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition-duration: 0.4s;
+}
+
+    .btn:hover {
+        background-color: #45a049;
+    }
+
+.ava{
+  padding-left: 50px;
+  /* border: 2px solid red; */
+  margin-top: -50px;
+  padding-top: 0px;
+}
+.ava span{
+  padding-left: 35px;
+}
+.ava p{
+  color: rgb(204,204,204);
+}
+
+.zalo img{
+  /* border: 2px solid red; */
+  margin-left: 2px;
+  margin-top: 10px;
+  max-width: 30px;
+  max-height: 30px;
+
+}
+
+.zalo{
+  border: 2px solid rgb(213, 200, 200);
+  margin-top: 10px;
+  width: 155px;
+  padding-left: 10px;
+  margin-left: 15px;
+  display: flex;
+  height: 47px;
+  border-radius: 10px;
+}
+
+.zalo p{
+  /* border: 2px solid blue; */
+  margin-left: 10px;
+}
+.zalo a{
+  /* border: 2px solid red; */
+  width: 40px;
+}
+.email{
+  height: 47px;
+  width: 165px;
+  margin-left: 16px;
+  border: 2px solid rgb(213,200,200);
+  text-align: center;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.top {
+    padding-top: 30px;
+}
+
+.yc{
+  height: 47px;
+  width: 165px;
+  margin-left: 16px;
+  border: 2px solid rgb(213, 200, 200);
+  border-radius: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.chitiet-img {
+   
+}
+
+    .chitiet-img img {
+        width: 600px;
+        height: 500px;
+        margin: 0 26.5%;
+        object-fit: cover;
+    }

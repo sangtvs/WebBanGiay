@@ -1,0 +1,296 @@
+﻿
+@{
+    var role = TempData["Role"] as string;
+    var username = TempData["Username"] as string;
+    TempData.Keep("Role");
+    TempData.Keep("UserName");
+    var name = TempData["Name"] as string;
+    var email = TempData["Email"] as string;
+    var phone = TempData["Phone"] as string;
+    var address = TempData["Address"] as string;
+    var status = TempData["Status"] as string;
+    TempData.Keep("Name");
+    TempData.Keep("Email");
+    TempData.Keep("Phone");
+    TempData.Keep("Address");
+    TempData.Keep("Status");
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - testt</title>
+    <link rel="stylesheet" href="~/font\fontawesome-free-6.4.2-web\fontawesome-free-6.4.2-web\css\all.min.css">
+    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
+    <link rel="stylesheet" href="~/css/layout.css" asp-append-version="true" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="~/js/layout.js" asp-append-version="true"></script>
+</head>
+<body>
+    <header class="header">
+        <a href="#">
+            <div class="header__logo"></div>
+        </a>
+        <div class="header__content">
+            <div class="header__content-page">
+                <ul class="header__content-page-items">
+                    @if (role == "user")
+                    {
+                        <li>
+                            <a href="/Home/Index">
+                                <i class="fa-solid fa-house"></i>
+                                Trang chủ
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Home/cart">
+                                Giỏ hàng
+                            </a>
+                        </li>
+                    }
+                    @if (role == "admin")
+                    {
+                        <li>
+                            <a href="/Home/IndexAdmin">
+                                <i class="fa-solid fa-house"></i>
+                                Trang chủ
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Home/thongtin">
+                                Thông tin
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/Home/thongtingiay">
+                                Thông tin giày
+                            </a>
+                        </li>
+                    }
+                    @if(role==null){
+                        <li>
+                            <a href="/Home/Index">
+                                <i class="fa-solid fa-house"></i>
+                                Trang chủ
+                            </a>
+                        </li>
+                    }
+                    <li>
+                        <a href="/Home/sanpham">
+                            Sản phẩm
+                        </a>
+                    </li>
+                </ul>
+                <ul class="header__content-page-items">
+                    <li class="search">
+                        <a href="#">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="header__content-page-items">
+                    
+                    @if (!string.IsNullOrEmpty(username))
+                    {
+                        @if (role == "user")
+                        {
+                            <li class="infor_login">
+                                <div class="user-icon">
+                                    <i class="fa-regular fa-user"></i>
+                                </div>
+                                <div class="showselect">
+                                    <div class="showselect-item showprofile">
+                                        <input type="button" value="Thông tin cá nhân">
+                                    </div>
+                                    <div>
+                                        <a href="#" class="showselect-items">Đổi mật khẩu</a><br>
+                                    </div>
+                                    <div><a href="/Home/Logout" class="showselect-items">Đăng xuât</a></div>
+                                </div>
+                                <div class="userprofile">
+                                    <section class="profile">
+                                        <img src="~/img/ava.png" alt="Avatar" class="avatar">
+                                        <h2 id="username">@name</h2>
+                                        <p>Email: <span id="email">@email</span></p>
+                                        <p>Số Điện Thoại: <span id="phone"> @phone</span></p>
+                                        <p>Địa chỉ: <span id="add">@address</span></p>
+                                        <p>Trạng thái: <span id="lichsu">@status</span></p>
+                                        <button id="editProfile">Chỉnh Sửa Thông Tin</button>
+                                        <div class="close-button"><i class="fas fa-times"></i></div>
+
+                                    </section>
+
+                                    <section class="edit-profile-form">
+                                        <h2>Chỉnh Sửa Thông Tin Cá Nhân</h2>
+                                        <form id="editForm">
+                                            <label for="editUsername">Tên Người Dùng:</label>
+                                            <input type="text" id="editUsername" name="editUsername" required><br><br>
+
+                                            <label for="editEmail">Email:</label>
+                                            <input type="email" id="editEmail" name="editEmail" required><br><br>
+
+                                            <label for="editPhone">Số Điện Thoại:</label>
+                                            <input type="tel" id="editPhone" name="editPhone" required><br><br>
+
+                                            <label for="editadd">Địa chỉ:</label>
+                                            <input type="text" id="editadd" name="editadd" required><br><br>
+
+                                            <button type="submit">Lưu Thay Đổi</button>
+                                            <button type="button" id="cancelEdit">Hủy Bỏ</button>
+                                        </form>
+                                    </section>
+                                </div>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="infor_login">
+                                <div class="user-icon">
+                                    <i class="fa-regular fa-user"></i>
+                                </div>
+                                <div class="showselect">
+                                        <div class="showselect-item showprofile">
+                                            <input type="button" value="Thông tin cá nhân">
+                                        </div>
+                                    <div>
+                                        <a href="#" class="showselect-items">Đổi mật khẩu</a><br>
+                                    </div>
+                                    <div><a href="/Home/Logout" class="showselect-items">Đăng xuât</a></div>
+                                </div>
+                                <div class="userprofile">
+                                    <section class="profile">
+                                        <img src="~/img/ava.png" alt="Avatar" class="avatar">
+                                        <h2 id="username">@name</h2>
+                                        <p>Email: <span id="email">@email</span></p>
+                                        <p>Số Điện Thoại: <span id="phone"> @phone</span></p>
+                                        <p>Địa chỉ: <span id="add">@address</span></p>
+                                        <p>Trạng thái: <span id="lichsu">@status</span></p>
+                                        <button id="editProfile">Chỉnh Sửa Thông Tin</button>
+                                        <div class="close-button"><i class="fas fa-times"></i></div>
+
+                                    </section>
+
+                                    <section class="edit-profile-form">
+                                        <h2>Chỉnh Sửa Thông Tin Cá Nhân</h2>
+                                        <form id="editForm">
+                                            <label for="editUsername">Tên Người Dùng:</label>
+                                            <input type="text" id="editUsername" name="editUsername" required><br><br>
+
+                                            <label for="editEmail">Email:</label>
+                                            <input type="email" id="editEmail" name="editEmail" required><br><br>
+
+                                            <label for="editPhone">Số Điện Thoại:</label>
+                                            <input type="tel" id="editPhone" name="editPhone" required><br><br>
+
+                                            <label for="editadd">Địa chỉ:</label>
+                                            <input type="text" id="editadd" name="editadd" required><br><br>
+
+                                            <button type="submit">Lưu Thay Đổi</button>
+                                            <button type="button" id="cancelEdit">Hủy Bỏ</button>
+                                        </form>
+                                    </section>
+                                </div>
+                            </li>
+                            <li class="add_admin p-4">
+                                <a href="#">Đăng giày</a>
+                            </li>
+                        }
+                    }
+                    else
+                    {
+                        <li><a href="/Home/dangky">Đăng ký</a></li>
+                        <li><a href="/Home/login">Đăng nhập</a></li>
+                    }
+                    
+                    
+                </ul>
+            </div>
+
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer">
+        <div class="footer__content1">
+            <div class="footer__content1-img">
+            </div>
+            <div class="footer__content1-contact">
+                <div>
+                    <p class="contact-content">
+                        Hỗ trợ đăng tin
+                    </p>
+                    <p>Điện thoại: 0965926384</p>
+                    <p>Zalo: 0965926384</p>
+                </div>
+                <div>
+                    <p class="contact-content">
+                        Hỗ trợ đăng tin
+                    </p>
+                    <p>Điện thoại: 0392854732</p>
+                    <p>Zalo: 0392854732</p>
+                </div>
+                <div>
+                    <p class="contact-content">
+                        Hỗ trợ khiếu nại
+                    </p>
+                    <p>Điện thoại: 0912556239</p>
+                    <p>Zalo: 0912556239</p>
+                </div>
+            </div>
+        </div>
+        <div class="footer__content2">
+            <div>
+                <p class="content2-tiltle">Về Homely</p>
+                <p>Trang chủ</p>
+                <p>Thông tin</p>
+                <p>Quy chế hoạt động</p>
+                <p>Quy định sử dụng</p>
+                <p>Chính sách bảo mật</p>
+                <p>Liên hệ</p>
+            </div>
+            <div>
+                <p class="content2-tiltle">Hỗ trợ khách hàng</p>
+                <p>câu hỏi thường gặp</p>
+                <p>Hướng dẫn đăng tin</p>
+                <p>Bảng giá dịch vụ</p>
+                <p>Quy định đăng tin</p>
+                <p>Giải quyết khiếu nại</p>
+            </div>
+            <div>
+                <div>
+                    <p class="content2-tiltle">Liên hệ với chúng tôi</p>
+                    <div>
+                        <span><i class="fa-brands fa-facebook"></i></span>
+                        <span><i class="fa-brands fa-youtube" style="color: #e8213f;"></i></span>
+                        <span><i class="fa-brands fa-tiktok"></i></span>
+                        <span><i class="fa-brands fa-square-twitter" style="color: #1d5ecd;"></i></span>
+                    </div>
+                </div>
+                <div>
+                    <p class="content2-tiltle">Phương thức thanh toán</p>
+                    <div>
+                        <span><i class="fa-brands fa-cc-visa" style="color: #b95f22;"></i></span>
+                        <span><i class="fa-regular fa-credit-card"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer__content3">
+            <p>Công ty TNHH Homely</p>
+            <p>Liên hệ CSKH: 0954298628</p>
+            <p>Email: cskh.homely@gmail.com</p>
+            <p>Địa chỉ: Trường Đại học Phenikaa- Yên Nghĩa - Hà Đông - Hà Nội</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,138 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    Database db = new Database();
+    List<Products> Giay = db.GetGiay();
+}
+@model Products
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true">
+    <link rel="stylesheet" href="~/font\fontawesome-free-6.4.2-web\fontawesome-free-6.4.2-web\css\all.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="~/js/site.js"></script>
+</head>
+<body>
+    <div class="container">
+
+        <main class="main">
+            <div class="main__anhnen">
+            </div>
+            <div class="BlockSearch">
+                
+                <div class="giatien">
+                    <label for="">Giá tiền</label>
+                    <select id="selectGiatien">
+                        <option value="chonmucgia" selected>Chon mức giá</option>
+                        <option value="tatca">Tất cả các mức giá</option>
+                        <option value="tren5tr">Trên 5 triệu</option>
+                        <option value="3-5tr">3-5 triệu</option>
+                        <option value="1-3tr">1-3 triệu</option>
+                        <option value="duoi1tr">dưới 1 triệu</option>
+                    </select>
+                </div>
+                <div class="Size">
+                    <label for=""> Size</label>
+                    <select id="selectSize">
+                        <option value="chonSize">Chọn Size</option>
+                        <option value="tatca">Tất cả các Size</option>
+                        <option value="35">35</option>
+                        <option value="36">36</option>
+                        <option value="37">37</option>
+                        <option value="38">38</option>
+                        <option value="39">39</option>
+                        <option value="40">40</option>
+                        <option value="41">41</option>
+                        <option value="42">42</option>
+                        <option value="43">43</option>
+                        <option value="44">44</option>
+                        <option value="45">45</option>
+
+                    </select>
+                </div>
+                
+            </div>
+            <div class="main__tiltle">
+                <h3>Giày thời trang giới trẻ </h3>
+            </div>
+            <div class="main__content">
+                @foreach (var giay in Giay)
+                {
+                    <a href="@Url.Action("chitiet", "Home", new { id = giay.Id })" class="link-cart">
+                        <div class="cart item1">
+                            <div class="cart-img">
+                                <img src="@Url.Action("GetImage", "Home", new { id = giay.Id })" alt="Ảnh" />
+                            </div>
+                            <div class="cart-title">
+                                <p>@giay.ProductName</p>
+                            </div>
+                            <div class="cart-price">
+                                <span>Giá tiền: @giay.Price đ</span>
+                                <span>Số lượng: @giay.QuantityInStock </span>
+                            </div>
+                            <div class="cart-address">
+                                <p>Hãng: @giay.Brand</p>
+                            </div>
+                            <div  class="xoa">
+                                <form method="post" action="@Url.Action("DeleteGiay", "Home", new { id = giay.Id })">
+                                    @Html.AntiForgeryToken()
+                                    <button type="submit" class="btn btn-danger" onclick="return confirm('Bạn có chắc muốn xóa?')"><i class="fa-solid fa-trash-can"></i></button>
+                                </form>
+                                @*<a href="@Url.Action("DeleteGiay", "Home", new { id = giay.Id })"><i class="fa-solid fa-trash-can"></i></a>*@
+                            </div>
+                        </div>
+                    </a>
+                }
+            </div>
+        </main>
+        <div class="danggiay" id="postFormContainer">
+            <div class="danggiay_content">
+                <span class="close-button" onclick="closePostForm()">X</span>
+                <h1>Đăng giày</h1>
+                @using (Html.BeginForm("ThemGiay", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <label for="title">Tên giày:</label>
+                    @Html.TextBoxFor(model => model.ProductName, new { @class = "form-input" })
+
+                    <label for="description">Mô tả:</label>
+                    @Html.TextBoxFor(model => model.Description, new { @class = "form-input" })
+                    <label for="Brand">Hãng:</label>
+                    @Html.TextBoxFor(model => model.Brand, new { @class = "form-input" })
+
+                    <label for="price">Giá tiền:</label>
+                    @Html.TextBoxFor(model => model.Price, new { @class = "form-input" })
+
+                    <label for="quantity">Số lượng:</label>
+                    @Html.TextBoxFor(model => model.QuantityInStock, new { @class = "form-input" })
+                    <div class="form-group">
+                        <label for="trang-thai" class="form-label">Giới tính:</label>
+                        @Html.DropDownListFor(model => model.ProductType,
+                        new List<SelectListItem>
+                        {
+                            new SelectListItem { Value = "Nam", Text = "Nam" },
+                            new SelectListItem { Value = "Nữ", Text = "Nữ" }
+                        },
+                        new { @class = "form-input", id = "type" })
+                    </div>
+                    <div id="imageContainer">
+                        <label for="images">Ảnh giày:</label>
+                        @Html.TextBoxFor(model => model.AnhGiay, new { type = "file", accept = "image/*" })
+                    </div>
+
+                    <button type="button" id="addImage">Thêm ảnh</button>
+
+                    <br>
+
+                    <button type="submit">Đăng Giày</button>
+                }
+            </div>
+        </div>
+    </div>
+</body>
+</html>

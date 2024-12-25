@@ -1,0 +1,37 @@
+﻿@model User
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xác nhận thanh toán</title>
+    <link rel="stylesheet" href="~/css/xacnhan.css" asp-append-version="true">
+
+</head>
+
+<body>
+    <div class="container">
+        <h1>Xác nhận thanh toán</h1>
+        <div class="customer-info">
+            <h2>Thông tin khách hàng</h2>
+            <p><strong>Họ và tên:</strong> @Model.Name</p>
+            <p><strong>Email:</strong> @Model.Email</p>
+            <p><strong>SĐT:</strong> @Model.Phone</p>
+            <p><strong>Địa chỉ:</strong> @Model.Address</p>
+        </div>
+        <div class="payment-method">
+            <h2>Phương thức thanh toán</h2>
+            <p><strong>Phương thức:</strong> Trả tiền trực tiếp</p>
+        </div>
+        <br>
+        <div class="xacnhan">
+            <form method="post" action="@Url.Action("Confirm", "Home", new { id = Model.ID })">
+                <button type="submit"  onclick="return confirm('Bạn có chắc muốn mua?')">Mua Hàng</button>
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

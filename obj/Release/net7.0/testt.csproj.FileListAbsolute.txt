@@ -1,0 +1,8 @@
+C:\Users\Hung\Downloads\testt\obj\Release\net7.0\testt.csproj.AssemblyReference.cache
+C:\Users\Hung\Downloads\testt\obj\Release\net7.0\testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hung\Downloads\testt\obj\Release\net7.0\testt.AssemblyInfoInputs.cache
+C:\Users\Hung\Downloads\testt\obj\Release\net7.0\testt.AssemblyInfo.cs
+C:\Users\Hung\Downloads\testt\obj\Release\net7.0\testt.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Downloads\testt\obj\Release\net7.0\testt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hung\Downloads\testt\obj\Release\net7.0\testt.RazorAssemblyInfo.cache
+C:\Users\Hung\Downloads\testt\obj\Release\net7.0\testt.RazorAssemblyInfo.cs
